@@ -1,4 +1,5 @@
 bin-all users runnable commands
 boot-booting related file
 dev-device files
-media-mount point for removable devices
+opt-third party software files were stored
+mnt-empty directory which is used for temporary mounting
