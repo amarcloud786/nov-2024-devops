@@ -3,3 +3,4 @@ boot-booting related file
 dev-device files
 opt-third party software files were stored
 mnt-empty directory which is used for temporary mounting
+proc-processor related files were stored
